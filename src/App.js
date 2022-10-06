@@ -59,6 +59,11 @@ function App() {
 
 export default withLDProvider({
     clientSideID: '633cee1f02348111d629f62d', // Input LaunchDarkly ClientSide ID here
+    user: {
+        "key": "fraser.logan@gmail.com",
+        "name": "Logan Fraser",
+        "email": "fraser.logan@gmail.com"
+    },
     options: {
         bootstrap: 'localStorage'
     },
