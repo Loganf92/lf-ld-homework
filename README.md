@@ -9,15 +9,20 @@ In a real world example, a website may look at enhancing it's feature set and ne
 
 By controlling the release of these new features with Feature Flags, developers will be able to understand the impact of the feature to the website in real time, and quickly turn it on/off as needed.
 
+
+
 I have implemented several feature flags, utilising both Boolean and String variations.
+The Dark Mode feature is currently only available for users with a 'gmail.com' email address 
+![image](https://user-images.githubusercontent.com/9441912/194202787-ffae4689-e426-49c2-9382-85722180d732.png)
+
 
 ## Important Notes
 After downloading the repository from Git, you will need to install dependencies for the application
 
 ### `npm install`
 
-The LaunchDarkly Client Side ID needs to be provided in the /src/App.js file
-![image](https://user-images.githubusercontent.com/9441912/194190342-8b6b148f-ae56-4a40-9e5d-d374e78c00fb.png)
+The LaunchDarkly Client Side ID and User Details need to be provided in the /src/App.js file
+![image](https://user-images.githubusercontent.com/9441912/194202891-6bd9faa2-a97b-40c9-93a2-ccfef38e099e.png)
 
 
 ## App Screenshots
