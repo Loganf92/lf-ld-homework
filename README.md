@@ -25,21 +25,43 @@ The LaunchDarkly Client Side ID and User Details need to be provided in the /src
 ![image](https://user-images.githubusercontent.com/9441912/194202891-6bd9faa2-a97b-40c9-93a2-ccfef38e099e.png)
 
 
+## Setup of LaunchDarkly
+
+For this project, 4 Feature Flags need to be created in LaunchDarkly.
+
+![image](https://user-images.githubusercontent.com/9441912/194204969-52c34736-5cd1-4872-950b-df47bb5fc96d.png)
+
+
+
+### darkModeToggle
+![image](https://user-images.githubusercontent.com/9441912/194204645-fe33f52a-8778-4769-b213-8745ad9cde46.png)
+
+### linkedIn2
+![image](https://user-images.githubusercontent.com/9441912/194205031-ad715501-6a90-4522-afe8-f4d686f3dede.png)
+
+
+### bottomText
+![image](https://user-images.githubusercontent.com/9441912/194205064-d5dc7e18-6303-4690-9166-fd24238023d2.png)
+
+
+### imageSwitch
+![image](https://user-images.githubusercontent.com/9441912/194205096-b6b31d15-e083-4e16-a1e1-f19dacf07743.png)
+
+
+
 ## App Screenshots
 
-Screenshot 1
+### Screenshot 1
 
 Shows the base application with all feature flags off
 
 ![React_App_and_Feature_flags_and_W-A_BP_s_Tool_vs_People__1_](https://user-images.githubusercontent.com/9441912/194189639-cf5bc5de-a902-49c7-bdcb-b04f2a9641da.png)
 
-Screenshot 2
+### Screenshot 2
 
 Shows the base application with all feature flags on
 
 ![Feature_flags_and_React_App_and_W-A_BP_s_Tool_vs_People__2_](https://user-images.githubusercontent.com/9441912/194189646-bc14ac7b-26a7-4a45-88bc-aca4a7cedb30.png)
-
-
 
 
 # Getting Started with Create React App
