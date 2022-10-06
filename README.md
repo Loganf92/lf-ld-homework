@@ -1,3 +1,42 @@
+# Logan Fraser's LaunchDarkly Homework Assignment
+
+## App Description
+This is a small React app designed to showcase the basic functionality of LaunchDarkly's Feature Flagging.
+
+## Feature Flag Implementation
+Feature Flags were implemented on several parts of the application.
+In a real world example, a website may look at enhancing it's feature set and need a method to test these new releases.
+
+By controlling the release of these new features with Feature Flags, developers will be able to understand the impact of the feature to the website in real time, and quickly turn it on/off as needed.
+
+I have implemented several feature flags, utilising both Boolean and String variations.
+
+## Important Notes
+After downloading the repository from Git, you will need to install dependencies for the application
+
+### `npm install`
+
+The LaunchDarkly Client Side ID needs to be provided in the /src/App.js file
+![image](https://user-images.githubusercontent.com/9441912/194190342-8b6b148f-ae56-4a40-9e5d-d374e78c00fb.png)
+
+
+## App Screenshots
+
+Screenshot 1
+
+Shows the base application with all feature flags off
+
+![React_App_and_Feature_flags_and_W-A_BP_s_Tool_vs_People__1_](https://user-images.githubusercontent.com/9441912/194189639-cf5bc5de-a902-49c7-bdcb-b04f2a9641da.png)
+
+Screenshot 2
+
+Shows the base application with all feature flags on
+
+![Feature_flags_and_React_App_and_W-A_BP_s_Tool_vs_People__2_](https://user-images.githubusercontent.com/9441912/194189646-bc14ac7b-26a7-4a45-88bc-aca4a7cedb30.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
