@@ -63,7 +63,7 @@ export default withLDProvider({
         "key": "fraser.logan@gmail.com",
         "name": "Logan Fraser",
         "email": "fraser.logan@gmail.com"
-    },
+    }, //Hard Coded User details to show user targetting
     options: {
         bootstrap: 'localStorage'
     },
