@@ -3,7 +3,7 @@
 ## App Description
 This is a small React app designed to showcase the basic functionality of LaunchDarkly's Feature Flagging.
 
-## Feature Flag Implementation
+## Feature Flags
 Feature Flags were implemented on several parts of the application.
 In a real world example, a website may look at enhancing it's feature set and need a method to test these new releases.
 
