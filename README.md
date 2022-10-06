@@ -35,17 +35,23 @@ For this project, 4 Feature Flags need to be created in LaunchDarkly.
 
 ### darkModeToggle
 ![image](https://user-images.githubusercontent.com/9441912/194204645-fe33f52a-8778-4769-b213-8745ad9cde46.png)
+![image](https://user-images.githubusercontent.com/9441912/194206129-73317cd4-7737-482d-ab86-8b68d1a98f7c.png)
+
 
 ### linkedIn2
 ![image](https://user-images.githubusercontent.com/9441912/194205031-ad715501-6a90-4522-afe8-f4d686f3dede.png)
+![image](https://user-images.githubusercontent.com/9441912/194206095-8fdd7070-500c-4fa4-a0f4-9c855d87dbac.png)
 
 
 ### bottomText
 ![image](https://user-images.githubusercontent.com/9441912/194205064-d5dc7e18-6303-4690-9166-fd24238023d2.png)
+![image](https://user-images.githubusercontent.com/9441912/194206061-ef4046c2-4407-479c-8a52-95c116399fb3.png)
 
 
 ### imageSwitch
 ![image](https://user-images.githubusercontent.com/9441912/194205096-b6b31d15-e083-4e16-a1e1-f19dacf07743.png)
+![image](https://user-images.githubusercontent.com/9441912/194206021-3698411c-562c-4dd8-98b0-ed23cb1e2060.png)
+
 
 
 
